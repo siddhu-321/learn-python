@@ -8,4 +8,3 @@ b= True
 c="siddharth"
 d=None
 print(a," ",b," ",c," ",d)
-
